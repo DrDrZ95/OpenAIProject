@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# pytest
+.pytest_cache/
+
+# Dotnet
+bin/
+obj/
+*.user
+*.suo
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
