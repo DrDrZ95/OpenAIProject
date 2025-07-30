@@ -10,3 +10,7 @@ Use the .NET 8 SDK to build and run the project:
 dotnet build NET.Agent.sln
 dotnet run --project NET.Agent/NET.Agent.csproj
 ```
+
+## Documentation
+
+Additional information on integrating eBPF tools with this project can be found in [docs/eBPF_integration.md](docs/eBPF_integration.md).
