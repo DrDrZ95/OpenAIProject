@@ -17,6 +17,6 @@ dotnet run --project NET.Agent/NET.Agent.csproj
 ```
 
 ## Documentation
-
 - eBPF integration: [docs/eBPF_integration.md](docs/eBPF_integration.md)
 - IoT framework overview: [docs/iot_framework_overview.md](docs/iot_framework_overview.md)
+- Additional information on integrating eBPF tools with this project can be found in [docs/eBPF_integration.md](docs/eBPF_integration.md).
